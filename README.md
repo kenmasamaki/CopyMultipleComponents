@@ -1,1 +1,1 @@
-# CopyMultipleComponentsEditor
+# CopyMultipleComponents
